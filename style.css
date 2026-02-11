@@ -1500,7 +1500,7 @@ body {
     }
 
     .menu-item h4, .dish-name {
-        font-size: 1.2rem !important;
+        font-size: 0.7rem !important;
         margin: 0 !important;
         text-align: left !important;
         display: block !important;
@@ -1533,4 +1533,5 @@ body {
         padding-left: 10px !important;
         padding-right: 10px !important;
     }
+
 }
